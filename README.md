@@ -1,4 +1,4 @@
-# MJO Diagnostics Tool
+# MJO Diagnostics Tools
 
 ## 1. Overviews
 General introduction to MJO diagnostics tool described here!
