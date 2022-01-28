@@ -1,9 +1,12 @@
 # MJO Diagnostics Tools
 
 ## 1. Overviews
-General introduction to MJO diagnostics tool described here!
+(General introduction for program codes will be described here!)
 
 ## 2. Contents
+(Contents that are contained in program codes will be described here!)
+
+example)
 > (1) MJO Task Force Diagnostics Tool </br>
 > (2) and so forth
 
