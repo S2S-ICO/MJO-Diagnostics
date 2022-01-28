@@ -41,7 +41,7 @@ Please use the "Issues" tab at the top to request issues that need to be address
 
 example)
 
-The MJOWG wishes to acknowledge and thank U.S. CLIVAR and International CLIVAR for supporting this working group and its activities.</br>
+The MJOWG wishes to acknowledge and thank U.S. CLIVAR and International CLIVAR for supporting this working group and its activities </br>
 by MJO Simulation Diagnostics
 
 ## 7. How to cite
