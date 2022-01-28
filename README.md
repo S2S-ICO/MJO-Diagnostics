@@ -47,7 +47,7 @@ by MJO Simulation Diagnostics
 ## 7. How to cite
 (Citation for program codes will be listed here!)
 
-example
+example)
 
 National Center for Atmospheric Research Staff (Eds). Last modified 08 Oct 2013. "[The Climate Data Guide: MJO]: Madden-Julian Oscillation Diagnostics." 
 
