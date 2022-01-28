@@ -45,7 +45,11 @@ The MJOWG wishes to acknowledge and thank U.S. CLIVAR and International CLIVAR f
 by MJO Simulation Diagnostics
 
 ## 7. How to cite
-National Center for Atmospheric Research Staff (Eds). Last modified 08 Oct 2013. "[The Climate Data Guide: MJO]: Madden-Julian Oscillation Diagnostics." Retrieved from 
+(Citation for program codes will be listed here!)
+
+example
+
+National Center for Atmospheric Research Staff (Eds). Last modified 08 Oct 2013. "[The Climate Data Guide: MJO]: Madden-Julian Oscillation Diagnostics." 
 
 ## 8. Disclaimer
 Any claims against the Institute stemming from the use of any GitHub-related project will be governed.
