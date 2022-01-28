@@ -37,9 +37,12 @@ Please use the "Issues" tab at the top to request issues that need to be address
 
 
 ## 6. Contributors & Acknowledgements
-Contributors how made this methodology codes </br></br>
+(Contributors and relevant Acknowledgements for program codes will be listed here!)
+
+example)
+
 The MJOWG wishes to acknowledge and thank U.S. CLIVAR and International CLIVAR for supporting this working group and its activities.</br>
-by MJO Simulation Diagnostics : Journal of Climate
+by MJO Simulation Diagnostics
 
 ## 7. How to cite
 National Center for Atmospheric Research Staff (Eds). Last modified 08 Oct 2013. "[The Climate Data Guide: MJO]: Madden-Julian Oscillation Diagnostics." Retrieved from 
