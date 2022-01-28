@@ -23,14 +23,17 @@ conda env create -f iri-dev.yml
 ```
 
 ## 4. Examples
-How to run this codes
+(Detailed guide to run program codes will be described here!)
+
+example)
+
 ```sh
 MJODiagnostics(Parameter,...)
 ```
 
 ## 5. Issues
 ### Patch note
-Please use the templates provided in the "Issues" tab to request improvements to PyCPT. Requests are priritized and will be addressed as soon as possible.
+Please use the "Issues" tab at the top to request issues that need to be addressed.
 
 
 ## 6. Contributors & Acknowledgements
