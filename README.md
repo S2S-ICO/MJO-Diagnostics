@@ -11,9 +11,13 @@ example)
 > (2) and so forth
 
 ## 3. Installation Instructions
-See the "[Wiki]" tab for detailed instructions
+(Detailed guide to install program codes will be described here!)
 
-It might be useful --but not at all required-- to use the provided iri-dev.yml conda environment file. If so, just follow the usual approach:
+example)
+
+(1) See the "[Manual]" for detailed instructions
+
+(2) It might be useful --but not at all required-- to use the provided iri-dev.yml conda environment file. If so, just follow the usual approach:
 ```sh
 conda env create -f iri-dev.yml
 ```
@@ -42,5 +46,5 @@ Any claims against the Institute stemming from the use of any GitHub-related pro
 
 
 
-  [Wiki]: https://climatedataguide.ucar.edu/climate-data/mjo-madden-julian-oscillation-diagnostics
+  [Manual]: https://climatedataguide.ucar.edu/climate-data/mjo-madden-julian-oscillation-diagnostics
   [The Climate Data Guide: MJO]: https://climatedataguide.ucar.edu/climate-data/mjo-madden-julian-oscillation-diagnostics
