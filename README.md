@@ -6,7 +6,6 @@
 
 
 ## 2. Contents
-example) </br>
 [1] climred </br>
 > - Calculate skill for NWP model GEFS for 6-hourly global forecasts
 > - Calculate skill of a MJO Index of SubX model GEOS_V2p1 as function of daily lead time
@@ -20,6 +19,7 @@ example) </br>
 > - Diagnosing Potential Predictability
 > - Significance Testing
 
+example) </br>
 [2] and so forth </br>
 (Contents that are contained in program codes will be described here!)
 
@@ -44,6 +44,20 @@ conda env create -f iri-dev.yml
 ```
 
 ## 4. Examples
+[1] climpred </br>
+> The detailed application of the technique can be checked through the link of each technique.
+> - [Calculate skill for NWP model GEFS for 6-hourly global forecasts]
+> - [Calculate skill of a MJO Index of SubX model GEOS_V2p1 as function of daily lead time]
+> - [Calculate skill of a MJO Index of S2S models as function of daily lead time]
+> - [Calculate skill of a MJO Index of SubX model GEOS_V2p1 as function of weekly lead time]
+> - [Calculate skill of S2S model ECMWF for daily global reforecasts]
+> - [Calculate ENSO Skill of NMME model NCEP-CFSv2 as Function of Initial Month vs. Lead Time]
+> - [Calculate Seasonal ENSO Skill of the NMME model NCEP-CFSv2]
+> - [Demo of Perfect Model Predictability Functions]
+> - [Hindcast Predictions of Equatorial Pacific SSTs]
+> - [Diagnosing Potential Predictability]
+> - [Significance Testing]
+
 (Detailed guide to run program codes will be described here!)
 
 example)
