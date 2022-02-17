@@ -20,13 +20,11 @@ example) </br>
 > - Diagnosing Potential Predictability
 > - Significance Testing
 
-(2) and so forth </br>
+[2] and so forth </br>
 (Contents that are contained in program codes will be described here!)
 
 ## 3. Installation Instructions
-(Detailed guide to install program codes will be described here!)
 
-example) </br>
 [1] climpred </br>
 > You can install the latest release of climpred using pip or conda:
 ```sh
@@ -37,6 +35,8 @@ conda install -c conda-forege climpred
 ```
 > See the "[climpred]" for detailed instructions
 
+(Detailed guide to install program codes will be described here!) </br>
+example) </br>
 [2] and so forth </br>
 It might be useful --but not at all required-- to use the provided iri-dev.yml conda environment file. If so, just follow the usual approach:
 ```sh
