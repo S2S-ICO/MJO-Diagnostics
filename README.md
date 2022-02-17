@@ -2,10 +2,10 @@
 
 ## 1. Overviews
 (1) climpred: Verification of weather and climate forecasts
+>  climpred aims to offer a comprehensive set of analysis tools for assessing the quality of dynamical forecasts relative to verification products (e.g., observations, reanalysis products, control simulations). The package includes a suite of deterministic and probabilistic verification metrics that are constantly expanded by the community and are generally organized in our companion package, xskillscore.
+
 
 ## 2. Contents
-(Contents that are contained in program codes will be described here!)
-
 example)
 (1) climred </br>
 >  - Calculate skill for NWP model GEFS for 6-hourly global forecasts
@@ -19,7 +19,9 @@ example)
 >  - Hindcast Predictions of Equatorial Pacific SSTs
 >  - Diagnosing Potential Predictability
 >  - Significance Testing
-> (2) and so forth
+
+(2) and so forth
+(Contents that are contained in program codes will be described here!)
 
 ## 3. Installation Instructions
 (Detailed guide to install program codes will be described here!)
