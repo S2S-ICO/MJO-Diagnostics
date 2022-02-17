@@ -1,14 +1,13 @@
 # MJO Diagnostics Tools
 
 ## 1. Overviews
-(General introduction for program codes will be described here!)
-(1) climpred: general introduction for dfclimpred
+(1) climpred: Verification of weather and climate forecasts
 
 ## 2. Contents
 (Contents that are contained in program codes will be described here!)
 
 example)
-> (1) climred </br>
+(1) climred </br>
 >  - Calculate skill for NWP model GEFS for 6-hourly global forecasts
 >  - Calculate skill of a MJO Index of SubX model GEOS_V2p1 as function of daily lead time
 >  - Calculate skill of a MJO Index of S2S models as function of daily lead time
