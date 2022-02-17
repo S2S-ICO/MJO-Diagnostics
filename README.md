@@ -29,12 +29,12 @@ example) </br>
 example) </br>
 [1] climpred </br>
 > You can install the latest release of climpred using pip or conda:
-'''sh
+```sh
 pip install climpred[complete]
-'''
-'''sh
+```
+```sh
 conda install -c conda-forege climpred
-'''
+```
 > See the "[climpred]" for detailed instructions
 
 [2] and so forth </br>
