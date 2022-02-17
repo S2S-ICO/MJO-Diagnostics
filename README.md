@@ -108,18 +108,18 @@ The latest releases of climpred can be found on [climpred's github].
 ## 6. Contributors & Acknowledgements
 ### [1] climpred
 > #### Core Developers
-> - Aaron Spring([github])
+> - Aaron Spring 
   [github]: https://github.com/aaronspring/
-> - Riley X. Brady ([github])
+> - Riley X. Brady 
   [github]: https://github.com/bradyrx/
 > #### Contributors
-> - Andrew Huang (github)
+> - Andrew Huang 
   [github]: https://github.com/ahuang11/
-> - Kathy Pegion (github)
+> - Kathy Pegion 
   [github]: https://github.com/kpegion/
-> - Anderson Banihirwe (github)
+> - Anderson Banihirwe 
   [github]: https://github.com/andersy005/
-> - Ray Bell (github)
+> - Ray Bell 
   [github]: https://github.com/raybellwaves/
 
 </br></br>
