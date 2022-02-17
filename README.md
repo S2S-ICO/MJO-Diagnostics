@@ -1,24 +1,24 @@
 # MJO Diagnostics Tools
 
 ## 1. Overviews
-(1) climpred: Verification of weather and climate forecasts
->  climpred aims to offer a comprehensive set of analysis tools for assessing the quality of dynamical forecasts relative to verification products (e.g., observations, reanalysis products, control simulations). The package includes a suite of deterministic and probabilistic verification metrics that are constantly expanded by the community and are generally organized in our companion package, xskillscore.
+[1] climpred: Verification of weather and climate forecasts
+> climpred aims to offer a comprehensive set of analysis tools for assessing the quality of dynamical forecasts relative to verification products (e.g., observations, reanalysis products, control simulations). The package includes a suite of deterministic and probabilistic verification metrics that are constantly expanded by the community and are generally organized in our companion package, xskillscore.
 
 
 ## 2. Contents
 example)
-(1) climred </br>
->  - Calculate skill for NWP model GEFS for 6-hourly global forecasts
->  - Calculate skill of a MJO Index of SubX model GEOS_V2p1 as function of daily lead time
->  - Calculate skill of a MJO Index of S2S models as function of daily lead time
->  - Calculate skill of a MJO Index of SubX model GEOS_V2p1 as function of weekly lead time
->  - Calculate skill of S2S model ECMWF for daily global reforecasts
->  - Calculate ENSO Skill of NMME model NCEP-CFSv2 as Function of Initial Month vs. Lead Time
->  - Calculate Seasonal ENSO Skill of the NMME model NCEP-CFSv2
->  - Demo of Perfect Model Predictability Functions
->  - Hindcast Predictions of Equatorial Pacific SSTs
->  - Diagnosing Potential Predictability
->  - Significance Testing
+[1] climred </br>
+> - Calculate skill for NWP model GEFS for 6-hourly global forecasts
+> - Calculate skill of a MJO Index of SubX model GEOS_V2p1 as function of daily lead time
+> - Calculate skill of a MJO Index of S2S models as function of daily lead time
+> - Calculate skill of a MJO Index of SubX model GEOS_V2p1 as function of weekly lead time
+> - Calculate skill of S2S model ECMWF for daily global reforecasts
+> - Calculate ENSO Skill of NMME model NCEP-CFSv2 as Function of Initial Month vs. Lead Time
+> - Calculate Seasonal ENSO Skill of the NMME model NCEP-CFSv2
+> - Demo of Perfect Model Predictability Functions
+> - Hindcast Predictions of Equatorial Pacific SSTs
+> - Diagnosing Potential Predictability
+> - Significance Testing
 
 (2) and so forth
 (Contents that are contained in program codes will be described here!)
