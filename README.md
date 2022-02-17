@@ -93,3 +93,14 @@ Any claims against the Institute stemming from the use of any GitHub-related pro
   [climpred]: https://climpred.readthedocs.io/en/stable/examples.html#subseasonal
   [Manual]: https://climatedataguide.ucar.edu/climate-data/mjo-madden-julian-oscillation-diagnostics
   [The Climate Data Guide: MJO]: https://climatedataguide.ucar.edu/climate-data/mjo-madden-julian-oscillation-diagnostics
+  [Calculate skill for NWP model GEFS for 6-hourly global forecasts]: https://climpred.readthedocs.io/en/stable/examples/NWP/NWP_GEFS_6h_forecasts.html#
+  [Calculate skill of a MJO Index of SubX model GEOS_V2p1 as function of daily lead time]: https://climpred.readthedocs.io/en/stable/examples/subseasonal/daily-subx-example.html
+  [Calculate skill of a MJO Index of S2S models as function of daily lead time]: https://climpred.readthedocs.io/en/stable/examples/subseasonal/daily-S2S-IRIDL.html
+  [Calculate skill of a MJO Index of SubX model GEOS_V2p1 as function of weekly lead time]: https://climpred.readthedocs.io/en/stable/examples/subseasonal/weekly-subx-example.html
+  [Calculate skill of S2S model ECMWF for daily global reforecasts]: https://climpred.readthedocs.io/en/stable/examples/subseasonal/daily-S2S-ECMWF.html
+  [Calculate ENSO Skill of NMME model NCEP-CFSv2 as Function of Initial Month vs. Lead Time]: https://climpred.readthedocs.io/en/stable/examples/monseas/monthly-enso-subx-example.html
+  [Calculate Seasonal ENSO Skill of the NMME model NCEP-CFSv2]: https://climpred.readthedocs.io/en/stable/examples/monseas/seasonal-enso-subx-example.html
+  [Demo of Perfect Model Predictability Functions]: https://climpred.readthedocs.io/en/stable/examples/decadal/perfect-model-predictability-demo.html
+  [Hindcast Predictions of Equatorial Pacific SSTs]: https://climpred.readthedocs.io/en/stable/examples/decadal/tropical-pacific-ssts.html
+  [Diagnosing Potential Predictability]: https://climpred.readthedocs.io/en/stable/examples/decadal/diagnose-potential-predictability.html
+  [Significance Testing]: https://climpred.readthedocs.io/en/stable/examples/decadal/Significance.html
