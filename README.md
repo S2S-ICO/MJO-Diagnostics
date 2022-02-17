@@ -1,37 +1,37 @@
 # MJO Diagnostics Tools
 
 ## 1. Overviews
-[1] climpred: Verification of weather and climate forecasts
+### [1] climpred: Verification of weather and climate forecasts
 > climpred aims to offer a comprehensive set of analysis tools for assessing the quality of dynamical forecasts relative to verification products (e.g., observations, reanalysis products, control simulations). The package includes a suite of deterministic and probabilistic verification metrics that are constantly expanded by the community and are generally organized in our companion package, xskillscore.
 
 example) </br>
 [2] and so forth </br>
 
 ## 2. Contents
-[1] climred </br>
-> ## Numerical Weather Prediction
+### [1] climred </br>
+> #### Numerical Weather Prediction
 > - Calculate skill for NWP model GEFS for 6-hourly global forecasts
-> ## Subseasonal
+> #### Subseasonal
 > - Calculate skill of a MJO Index of SubX model GEOS_V2p1 as function of daily lead time
 > - Calculate skill of a MJO Index of S2S models as function of daily lead time
 > - Calculate skill of a MJO Index of SubX model GEOS_V2p1 as function of weekly lead time
 > - Calculate skill of S2S model ECMWF for daily global reforecasts
-> ## Monthly and Seasonal
+> #### Monthly and Seasonal
 > - Calculate ENSO Skill of NMME model NCEP-CFSv2 as Function of Initial Month vs. Lead Time
 > - Calculate Seasonal ENSO Skill of the NMME model NCEP-CFSv2
-> ## Decadal
+> #### Decadal
 > - Demo of Perfect Model Predictability Functions
 > - Hindcast Predictions of Equatorial Pacific SSTs
 > - Diagnosing Potential Predictability
 > - Significance Testing
 
 example) </br>
-[2] and so forth </br>
+### [2] and so forth </br>
 (Contents that are contained in program codes will be described here!)
 
 ## 3. Installation Instructions
 
-[1] climpred </br>
+### [1] climpred </br>
 > You can install the latest release of climpred using pip or conda:
 ```sh
 pip install climpred[complete]
@@ -43,26 +43,26 @@ conda install -c conda-forege climpred
 </br></br>
 (Detailed guide to install program codes will be described here!) </br>
 example) </br>
-[2] and so forth </br>
+### [2] and so forth </br>
 It might be useful --but not at all required-- to use the provided iri-dev.yml conda environment file. If so, just follow the usual approach:
 ```sh
 conda env create -f iri-dev.yml
 ```
 
 ## 4. Examples
-[1] climpred </br>
+### [1] climpred </br>
 > The detailed application of the technique can be checked through the link of each technique.
-> ## Numerical Weather Prediction
+> #### Numerical Weather Prediction
 > - [Calculate skill for NWP model GEFS for 6-hourly global forecasts]
-> ## Subseasonal
+> #### Subseasonal
 > - [Calculate skill of a MJO Index of SubX model GEOS_V2p1 as function of daily lead time]
 > - [Calculate skill of a MJO Index of S2S models as function of daily lead time]
 > - [Calculate skill of a MJO Index of SubX model GEOS_V2p1 as function of weekly lead time]
 > - [Calculate skill of S2S model ECMWF for daily global reforecasts]
-> ## Monthly and Seasonal
+> #### Monthly and Seasonal
 > - [Calculate ENSO Skill of NMME model NCEP-CFSv2 as Function of Initial Month vs. Lead Time]
 > - [Calculate Seasonal ENSO Skill of the NMME model NCEP-CFSv2]
-> ## Decadal
+> #### Decadal
 > - [Demo of Perfect Model Predictability Functions]
 > - [Hindcast Predictions of Equatorial Pacific SSTs]
 > - [Diagnosing Potential Predictability]
