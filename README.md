@@ -13,8 +13,7 @@ HindcastEnsemble.verify(
 )
 ```
 
-
-example) </br>
+</br>
 ### [2] and so forth </br>
 
 ## 2. Contents
@@ -40,7 +39,7 @@ example) </br>
 > - Setting up your own output
 > - intake-esm for cmorized output
 
-example) </br>
+</br>
 ### [2] and so forth </br>
 (Contents that are contained in program codes will be described here!)
 
@@ -104,7 +103,6 @@ MJODiagnostics(Parameter,...)
 #### Patch note
 The latest releases of climpred can be found on [climpred's github].
 
-
 ## 6. Contributors & Acknowledgements
 ### [1] climpred
 > #### Core Developers
@@ -131,6 +129,9 @@ The MJOWG wishes to acknowledge and thank U.S. CLIVAR and International CLIVAR f
 by MJO Simulation Diagnostics
 
 ## 7. How to cite
+### [1] climpred
+> See the "[climpred]" for detailed instructions </br>
+
 (Citation for program codes will be listed here!)
 
 example)
