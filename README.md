@@ -40,6 +40,7 @@ pip install climpred[complete]
 conda install -c conda-forege climpred
 ```
 > See the "[climpred]" for detailed instructions
+
 </br></br>
 (Detailed guide to install program codes will be described here!) </br>
 example) </br>
