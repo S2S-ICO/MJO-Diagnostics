@@ -2,10 +2,20 @@
 
 ## 1. Overviews
 ### [1] climpred: Verification of weather and climate forecasts
-> climpred aims to offer a comprehensive set of analysis tools for assessing the quality of dynamical forecasts relative to verification products (e.g., observations, reanalysis products, control simulations). The package includes a suite of deterministic and probabilistic verification metrics that are constantly expanded by the community and are generally organized in our companion package, xskillscore.
+> There are many packages out there related to computing metrics on initialized geoscience predictions. However, we didn’t find any one package that unified all our needs.
+>
+> Output from earth system prediction hindcast (also called re-forecast) experiments is difficult to work with. A typical output file could contain the dimensions initialization, lead time, ensemble member, latitude, longitude, depth. climpred leverages the labeled dimensions of xarray to handle the headache of bookkeeping for you. We offer HindcastEnsemble and PerfectModelEnsemble objects that carry products to verify against (e.g., control runs, reconstructions, uninitialized ensembles) along with your initialized prediction output.
+>
+> When computing lead-dependent skill scores, climpred handles all of the init+lead-valid_time-matching for you, properly aligning the multiple time dimensions between the hindcast and verification datasets. We offer a suite of vectorized deterministic and probabilistic metrics that can be applied to time series and grids. It’s as easy as concatenating your initialized prediction output into one xarray.Dataset and running the HindcastEnsemble.verify() command:
+```sh
+HindcastEnsemble.verify(
+    metric="rmse", comparison="e2o", dim="init", alignment="maximize"
+)
+```
+
 
 example) </br>
-[2] and so forth </br>
+### [2] and so forth </br>
 
 ## 2. Contents
 ### [1] climred </br>
@@ -24,6 +34,11 @@ example) </br>
 > - Hindcast Predictions of Equatorial Pacific SSTs
 > - Diagnosing Potential Predictability
 > - Significance Testing
+> #### Misc
+> - Using dask with climpred
+> - climpred on CPU vs GPU
+> - Setting up your own output
+> - intake-esm for cmorized output
 
 example) </br>
 ### [2] and so forth </br>
@@ -68,6 +83,12 @@ conda env create -f iri-dev.yml
 > - [Hindcast Predictions of Equatorial Pacific SSTs]
 > - [Diagnosing Potential Predictability]
 > - [Significance Testing]
+> #### Misc
+> - [Using dask with climpred]
+> - [climpred on CPU vs GPU]
+> - [Setting up your own output]
+> - [intake-esm for cmorized output]
+
 
 </br></br>
 (Detailed guide to run program codes will be described here!)
@@ -79,11 +100,29 @@ MJODiagnostics(Parameter,...)
 ```
 
 ## 5. Issues
-### Patch note
-Please use the "Issues" tab at the top to request issues that need to be addressed.
+### [1] climpred
+#### Patch note
+The latest releases of climpred can be found on [climpred's github].
 
 
 ## 6. Contributors & Acknowledgements
+### [1] climpred
+> #### Core Developers
+> - Aaron Spring([github])
+  [github]: https://github.com/aaronspring/
+> - Riley X. Brady ([github])
+  [github]: https://github.com/bradyrx/
+> #### Contributors
+> - Andrew Huang (github)
+  [github]: https://github.com/ahuang11/
+> - Kathy Pegion (github)
+  [github]: https://github.com/kpegion/
+> - Anderson Banihirwe (github)
+  [github]: https://github.com/andersy005/
+> - Ray Bell (github)
+  [github]: https://github.com/raybellwaves/
+
+</br></br>
 (Contributors and relevant Acknowledgements for program codes will be listed here!)
 
 example)
@@ -116,3 +155,8 @@ Any claims against the Institute stemming from the use of any GitHub-related pro
   [Hindcast Predictions of Equatorial Pacific SSTs]: https://climpred.readthedocs.io/en/stable/examples/decadal/tropical-pacific-ssts.html
   [Diagnosing Potential Predictability]: https://climpred.readthedocs.io/en/stable/examples/decadal/diagnose-potential-predictability.html
   [Significance Testing]: https://climpred.readthedocs.io/en/stable/examples/decadal/Significance.html
+  [Using dask with climpred]: https://climpred.readthedocs.io/en/stable/examples/misc/efficient_dask.html
+  [climpred on CPU vs GPU]: https://climpred.readthedocs.io/en/stable/examples/misc/climpred_gpu.html
+  [Setting up your own output]: https://climpred.readthedocs.io/en/stable/examples/misc/setup_your_own_data.html
+  [intake-esm for cmorized output]: https://climpred.readthedocs.io/en/stable/examples/misc/setup_your_own_data.html#intake-esm-for-cmorized-output
+  [climpred's github]: https://github.com/pangeo-data/climpred
