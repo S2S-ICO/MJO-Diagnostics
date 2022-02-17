@@ -12,7 +12,6 @@ HindcastEnsemble.verify(
     metric="rmse", comparison="e2o", dim="init", alignment="maximize"
 )
 ```
-
 </br></br>
 
 ### [2] and so forth </br>
@@ -41,6 +40,7 @@ HindcastEnsemble.verify(
 > - intake-esm for cmorized output
 
 </br>
+
 ### [2] and so forth </br>
 (Contents that are contained in program codes will be described here!)
 
@@ -57,8 +57,7 @@ conda install -c conda-forege climpred
 > See the "[climpred]" for detailed instructions
 
 </br></br>
-(Detailed guide to install program codes will be described here!) </br>
-example) </br>
+
 ### [2] and so forth </br>
 It might be useful --but not at all required-- to use the provided iri-dev.yml conda environment file. If so, just follow the usual approach:
 ```sh
@@ -92,9 +91,7 @@ conda env create -f iri-dev.yml
 
 </br></br>
 (Detailed guide to run program codes will be described here!)
-
 example)
-
 ```sh
 MJODiagnostics(Parameter,...)
 ```
