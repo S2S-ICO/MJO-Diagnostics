@@ -80,6 +80,8 @@ conda install -c conda-forege climpred
 > - [Setting up your own output]
 > - [intake-esm for cmorized output]
 
+</br></br>
+### [2] Spaceholder for new item
 
 </br></br>
 (Detailed guide to run program codes will be described here!)
@@ -87,9 +89,6 @@ example)
 ```sh
 MJODiagnostics(Parameter,...)
 ```
-
-</br></br>
-### [2] Spaceholder for new item
 
 ## 5. Issues
 ### [1] climpred
