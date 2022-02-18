@@ -14,8 +14,6 @@ HindcastEnsemble.verify(
 ```
 </br></br>
 
-### [2] and so forth </br>
-
 ## 2. Contents
 ### [1] climred </br>
 > #### Numerical Weather Prediction
