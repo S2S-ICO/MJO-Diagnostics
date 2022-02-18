@@ -13,7 +13,7 @@ HindcastEnsemble.verify(
 )
 ```
 </br></br>
-### [2] Spaceholder for new item
+### [2] Spaceholder for next item
 </br>
 
 ## 2. Contents
@@ -40,7 +40,7 @@ HindcastEnsemble.verify(
 > - intake-esm for cmorized output
 
 </br></br>
-### [2] Spaceholder for new item
+### [2] Spaceholder for next item
 </br>
 
 ## 3. Installation Instructions
@@ -56,7 +56,7 @@ conda install -c conda-forege climpred
 > See the "[climpred]" for detailed instructions
 
 </br></br>
-### [2] Spaceholder for new item
+### [2] Spaceholder for next item
 </br>
 
 ## 4. Examples
@@ -84,7 +84,7 @@ conda install -c conda-forege climpred
 > - [intake-esm for cmorized output]
 
 </br></br>
-### [2] Spaceholder for new item
+### [2] Spaceholder for next item
 
 (Detailed guide to run program codes will be described here!)
 
