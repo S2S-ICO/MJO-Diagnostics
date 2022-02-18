@@ -2,7 +2,7 @@
 
 ## 1. Overviews
 ### [1] climpred: Verification of weather and climate forecasts
-#### ※ "[climpred]" is listed here by courtesy of Aaron Sping. See the "[climpred]" for further details.
+#### ※ "[climpred]" is listed here by courtesy of Aaron Spring. See the "[climpred]" for further details.
 > There are many packages out there related to computing metrics on initialized geoscience predictions. However, we didn’t find any one package that unified all our needs.
 >
 > Output from earth system prediction hindcast (also called re-forecast) experiments is difficult to work with. A typical output file could contain the dimensions initialization, lead time, ensemble member, latitude, longitude, depth. climpred leverages the labeled dimensions of xarray to handle the headache of bookkeeping for you. We offer HindcastEnsemble and PerfectModelEnsemble objects that carry products to verify against (e.g., control runs, reconstructions, uninitialized ensembles) along with your initialized prediction output.
