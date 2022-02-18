@@ -85,7 +85,7 @@ conda install -c conda-forege climpred
 </br>
 (Detailed guide to run program codes will be described here!)
 
-
+</br>
 example)
 ```sh
 MJODiagnostics(Parameter,...)
