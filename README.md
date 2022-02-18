@@ -100,6 +100,10 @@ MJODiagnostics(Parameter,...)
 #### Patch note
 The latest releases of climpred can be found on [climpred's github].
 
+</br></br>
+### [2] Spaceholder for next item
+</br>
+
 ## 6. Contributors & Acknowledgements
 ### [1] climpred
 > #### Core Developers
@@ -118,6 +122,9 @@ The latest releases of climpred can be found on [climpred's github].
   [github]: https://github.com/raybellwaves/
 
 </br></br>
+### [2] Spaceholder for next item
+</br>
+
 (Contributors and relevant Acknowledgements for program codes will be listed here!)
 
 example)
@@ -128,6 +135,10 @@ by MJO Simulation Diagnostics
 ## 7. How to cite
 ### [1] climpred
 > See the "[climpred]" for detailed instructions </br>
+
+</br></br>
+### [2] Spaceholder for next item
+</br>
 
 (Citation for program codes will be listed here!)
 
