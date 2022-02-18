@@ -54,7 +54,6 @@ conda install -c conda-forege climpred
 > See the "[climpred]" for detailed instructions
 
 </br></br>
-</br></br>
 ### [2] Spaceholder for new item
 
 ## 4. Examples
@@ -88,6 +87,9 @@ example)
 ```sh
 MJODiagnostics(Parameter,...)
 ```
+
+</br></br>
+### [2] Spaceholder for new item
 
 ## 5. Issues
 ### [1] climpred
