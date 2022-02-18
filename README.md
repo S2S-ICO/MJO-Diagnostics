@@ -39,9 +39,6 @@ HindcastEnsemble.verify(
 
 </br>
 
-### [2] and so forth </br>
-(Contents that are contained in program codes will be described here!)
-
 ## 3. Installation Instructions
 
 ### [1] climpred </br>
@@ -55,12 +52,6 @@ conda install -c conda-forege climpred
 > See the "[climpred]" for detailed instructions
 
 </br></br>
-
-### [2] and so forth </br>
-It might be useful --but not at all required-- to use the provided iri-dev.yml conda environment file. If so, just follow the usual approach:
-```sh
-conda env create -f iri-dev.yml
-```
 
 ## 4. Examples
 ### [1] climpred </br>
