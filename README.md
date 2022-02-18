@@ -85,11 +85,11 @@ conda install -c conda-forege climpred
 
 </br></br>
 ### [2] Spaceholder for new item
-</br>
+
 (Detailed guide to run program codes will be described here!)
-</br>
+
 example)
-</br>
+
 ```sh
 MJODiagnostics(Parameter,...)
 ```
