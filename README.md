@@ -82,8 +82,7 @@ conda install -c conda-forege climpred
 
 </br></br>
 ### [2] Spaceholder for new item
-
-</br></br>
+</br>
 (Detailed guide to run program codes will be described here!)
 example)
 ```sh
