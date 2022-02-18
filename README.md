@@ -14,6 +14,7 @@ HindcastEnsemble.verify(
 ```
 </br></br>
 ### [2] Spaceholder for new item
+</br>
 
 ## 2. Contents
 ### [1] climred </br>
@@ -40,6 +41,7 @@ HindcastEnsemble.verify(
 
 </br></br>
 ### [2] Spaceholder for new item
+</br>
 
 ## 3. Installation Instructions
 
@@ -55,6 +57,7 @@ conda install -c conda-forege climpred
 
 </br></br>
 ### [2] Spaceholder for new item
+</br>
 
 ## 4. Examples
 ### [1] climpred </br>
@@ -90,6 +93,7 @@ example)
 ```sh
 MJODiagnostics(Parameter,...)
 ```
+</br>
 
 ## 5. Issues
 ### [1] climpred
