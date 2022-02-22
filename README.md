@@ -101,6 +101,9 @@ MJODiagnostics(Parameter,...)
 #### Patch note
 The latest releases of climpred can be found on [climpred's github].
 
+#### Additional information
+Usefull function [S2S-ai-cahllenge]
+
 </br></br>
 ### [2] Spaceholder for next item
 </br>
@@ -169,4 +172,5 @@ Any claims against the Institute stemming from the use of any GitHub-related pro
   [climpred on CPU vs GPU]: https://climpred.readthedocs.io/en/stable/examples/misc/climpred_gpu.html
   [Setting up your own output]: https://climpred.readthedocs.io/en/stable/examples/misc/setup_your_own_data.html
   [intake-esm for cmorized output]: https://climpred.readthedocs.io/en/stable/examples/misc/setup_your_own_data.html#intake-esm-for-cmorized-output
+  [S2S-ai-cahllenge]: https://github.com/ecmwf-lab/climetlab-s2s-ai-challenge
   [climpred's github]: https://github.com/pangeo-data/climpred
