@@ -102,7 +102,7 @@ MJODiagnostics(Parameter,...)
 The latest releases of climpred can be found on [climpred's github].
 
 #### Additional information
-Usefull function [S2S-ai-cahllenge]
+Usefull function is provided in [S2S-ai-cahllenge]
 
 </br></br>
 ### [2] Spaceholder for next item
