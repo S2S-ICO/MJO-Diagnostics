@@ -101,9 +101,6 @@ MJODiagnostics(Parameter,...)
 #### Patch note
 The latest releases of climpred can be found on [climpred's github].
 
-#### Additional information
-Usefull function is provided in [S2S-ai-cahllenge]
-
 </br></br>
 ### [2] Spaceholder for next item
 </br>
