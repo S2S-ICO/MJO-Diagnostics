@@ -101,6 +101,9 @@ MJODiagnostics(Parameter,...)
 #### Patch note
 The latest releases of climpred can be found on [climpred's github].
 
+#### Additional usefull tool
+[xskillscore] is an open source project and Python package that provides verification metrics of deterministic (and probabilistic from properscoring) forecasts with xarray.
+
 </br></br>
 ### [2] Spaceholder for next item
 </br>
@@ -171,3 +174,4 @@ Any claims against the Institute stemming from the use of any GitHub-related pro
   [intake-esm for cmorized output]: https://climpred.readthedocs.io/en/stable/examples/misc/setup_your_own_data.html#intake-esm-for-cmorized-output
   [S2S-ai-cahllenge]: https://github.com/ecmwf-lab/climetlab-s2s-ai-challenge
   [climpred's github]: https://github.com/pangeo-data/climpred
+  [xskillscore]: https://github.com/xarray-contrib/xskillscore
